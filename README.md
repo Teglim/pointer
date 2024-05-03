@@ -8,7 +8,7 @@ This repository contains C code snippets demonstrating various concepts related 
 2. **Initialization**: Demonstrates pointer initialization and usage with arrays.
 3. **Operations**: Shows pointer arithmetic and string manipulation.
 4. **Type Verification**: Ensures proper pointer types are used.
-5. **Passing by Reference**: Illustrates passing variables and arrays by reference.
+5. **Pass by Reference**: Illustrates passing variables and arrays by reference.
 6. **Advanced Application**: Explores advanced usage scenarios, such as pointer to pointer.
 
 ## Instructions:
