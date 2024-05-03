@@ -1,6 +1,6 @@
 # Pointers in C
 
-This repository contains C code snippets demonstrating various concepts related to pointers. This code covers the Software Engineering II course through week 4.
+This repository contains C code snippets demonstrating various concepts related to pointers. This code covers the Software Engineering II course through week 4. The comments are in Japanese.
 
 ## Contents:
 
