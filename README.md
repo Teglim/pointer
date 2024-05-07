@@ -1,18 +1,18 @@
 # Pointers in C
 
-This repository contains C code snippets demonstrating various concepts related to pointers. This code covers the Software Engineering II course through week 4. The comments are in Japanese.
+このリポジトリはC言語におけるポインタの使い方を説明するものです。本大学のソフ演II第4週までの内容を含みます。
 
-## Contents:
+## 目次:
 
-1. **Declaration**: Introduces basic pointer declaration and assignment.
-2. **Initialization**: Demonstrates pointer initialization and usage with arrays.
-3. **Operations**: Shows pointer arithmetic and string manipulation.
-4. **Type Verification**: Ensures proper pointer types are used.
-5. **Pass by Reference**: Illustrates passing variables and arrays by reference.
-6. **Advanced Application**: Explores advanced usage scenarios, such as pointer to pointer.
+1. **宣言**: 基本的なポインタの宣言と代入
+2. **初期化**: ポインタの初期化と配列との関係
+3. **演算**: ポインタの演算と配列の操作
+4. **同じ型へのポインタ**: 適切な、同じ型へのポインタを使用する
+5. **ポインタ渡し**: 
+6. **ポインタのポインタ**: 
 
-## Instructions:
+## 補足:
 
-Each section of the code is explained within the source file itself through comments. Please refer to the respective sections for detailed explanations and examples.
+それぞれのsectionはソースコード内のコメントで説明しています。
 
-**Feedback**: Your feedback is valuable. If you find any issues or have suggestions for improvement, feel free to contact the author, Teglim, via DM (@integlim).
+**フィードバック**: どんな小さな気付きでも、遠慮なくコメントいただければ幸いです。XのアカウントTeglim(@integlim)まで気軽にリプライ、DMください。
