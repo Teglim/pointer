@@ -149,7 +149,7 @@ void let_3(int (**a)[N]) { // a -> &x です
 
 // ポインタ渡しの応用
 void section6() {
-    int (*x)[N]; // section4、型の確認と一緒です
+    int (*x)[N]; // section4、同じ型へのポインタと一緒です
     x = A_0;
 
     let_2(x); // a -> x です
